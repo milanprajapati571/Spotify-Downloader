@@ -8,7 +8,7 @@ It uses [RapidAPI's Spotify Downloader API](https://rapidapi.com/) to fetch and 
 
 ## 🌐 Live Demo
 
-> 💡 Coming Soon — You can deploy this using GitHub Pages or Vercel!
+> 💡 [Live Demo](https://spotify-downloader-milanprajapati571.vercel.app/)
 
 ---
 
