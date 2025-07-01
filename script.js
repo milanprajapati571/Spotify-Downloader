@@ -15,8 +15,8 @@ document.getElementById("downloadBtn").addEventListener("click", async function 
   const options = {
     method: 'GET',
     headers: {
-      "x-rapidapi-key": "YOUR_API_KEY",
-      "x-rapidapi-host": "spotify-downloader9.p.rapidapi.com"
+      'x-rapidapi-key': 'b3c033e82fmshe3a2dfcb1eafaa3p1355c3jsn227788a47e2f',
+      'x-rapidapi-host': 'spotify-downloader9.p.rapidapi.com'
     }
   };
 
